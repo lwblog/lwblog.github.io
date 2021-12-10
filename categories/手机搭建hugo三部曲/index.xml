@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>手机搭建HUGO三部曲 on 小白博客</title>
+    <link>https://lwblog.github.io/categories/%E6%89%8B%E6%9C%BA%E6%90%AD%E5%BB%BAhugo%E4%B8%89%E9%83%A8%E6%9B%B2/</link>
+    <description>Recent content in 手机搭建HUGO三部曲 on 小白博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Dec 2021 10:00:00 +0800</lastBuildDate><atom:link href="https://lwblog.github.io/categories/%E6%89%8B%E6%9C%BA%E6%90%AD%E5%BB%BAhugo%E4%B8%89%E9%83%A8%E6%9B%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何使用手机建立一个博客？（3）</title>
+      <link>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A23/</link>
+      <pubDate>Wed, 01 Dec 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A23/</guid>
+      <description>如何在手机使用hugo建立一个个人博客（3） 上一篇教学，我们完成了在hugo架设的博客上发布文章，但整个博客都只是在本地运行，别人并无法访问</description>
+    </item>
+    
+    <item>
+      <title>如何使用手机建立一个博客？（2）</title>
+      <link>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A22/</link>
+      <pubDate>Wed, 01 Dec 2021 09:00:00 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A22/</guid>
+      <description>如何在手机使用hugo建立一个个人博客 上一篇教学，我们完成了hugo博客的初步架设，而那仅仅是个在本地服务器运行的网页，本期文章将会教你如何</description>
+    </item>
+    
+    <item>
+      <title>如何使用手机建立一个博客？</title>
+      <link>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 01 Dec 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何在手机使用hugo建立一个个人博客 前言 最近心血来潮，想创建一个教学类的博客，但又没（懒）时（得）间一点一点的用代码敲出来，难道就没有方法</description>
+    </item>
+    
+  </channel>
+</rss>

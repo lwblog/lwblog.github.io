@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>小白博客</title>
+        <link>https://lwblog.github.io/</link>
+        <description>Recent content on 小白博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 10 Dec 2021 16:48:50 +0800</lastBuildDate><atom:link href="https://lwblog.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Spck Editor功能介绍</title>
+        <link>https://lwblog.github.io/p/spck-editor%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/</link>
+        <pubDate>Fri, 10 Dec 2021 16:48:50 +0800</pubDate>
+        
+        <guid>https://lwblog.github.io/p/spck-editor%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/</guid>
+        <description>&lt;img src="https://lwblog.github.io/post/cover.png" alt="Featured image of post Spck Editor功能介绍" /&gt;&lt;h2 id=&#34;spck-editor功能介绍&#34;&gt;Spck Editor功能介绍&lt;/h2&gt;
+&lt;p&gt;之前介绍过一款手机编程的app，那就是Spck Editor，如果没看过的可以去找一找我之前的文章，本篇文章主要讲解Spck Editor的一些设置，还有一些实用的功能，技巧等等。&lt;/p&gt;
+&lt;h2 id=&#34;教学开始&#34;&gt;教学开始&lt;/h2&gt;
+&lt;h2 id=&#34;设置&#34;&gt;设置&lt;/h2&gt;
+&lt;p&gt;我们打开Spck Editor的设置页面后，大概会看到这些设置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GIT&lt;/li&gt;
+&lt;li&gt;外观&lt;/li&gt;
+&lt;li&gt;代码宝&lt;/li&gt;
+&lt;li&gt;编辑器&lt;/li&gt;
+&lt;li&gt;预览&lt;/li&gt;
+&lt;li&gt;移动&lt;/li&gt;
+&lt;li&gt;触控功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;关于git功能，我们留到后面再说。
+首先说说外观的设置。&lt;/p&gt;
+&lt;h3 id=&#34;外观&#34;&gt;外观&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;第一&lt;/strong&gt;，动画效果。其实也就是打开菜单的那一瞬间的动画，开不开也无所谓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二&lt;/strong&gt;，语言。这个就不用多说了吧？就只是选择语言而已。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三&lt;/strong&gt;，主题。其实也就是语法高亮，根据你使用的编程语言显示不同的颜色增强可读性。这里我以Python为例子，展示所以主题的语法高亮，选择一个你喜欢的就好。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post005/0.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post005/0.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;各个语法高亮&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;各个语法高亮&lt;/figcaption&gt;
+	
+&lt;/figure&gt;{ width=50% }&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四&lt;/strong&gt;，Amoled。编辑器背景颜色，如果没打开的话你的Spck Editor背景会是黑灰色的，打开后变成纯黑。另外打开后会节省电池(反正说明是这样写的，能不能省咱也不知道)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第五&lt;/strong&gt;，顶栏透明度。顾名思义，可以调节顶部栏的透明度，小白我个人是比较喜欢纯黑(Solid)，而transparent就是透明的。&lt;/p&gt;
+&lt;h3 id=&#34;代码宝&#34;&gt;代码宝&lt;/h3&gt;
+&lt;p&gt;没什么用，无视。&lt;/p&gt;
+&lt;h3 id=&#34;编辑器&#34;&gt;编辑器&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;第一&lt;/strong&gt;，自动补全/语法检查。打开后会自动识别你输入的代码，并且帮你补全。而语法检查仅使用于HTML除外的所有编程语言，系统会检测你的代码，并找出错误的语法，以下为示意图，建议打开。&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post002/4.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post002/4.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;没打开自动补全&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;没打开自动补全&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+![打开自动补全后](&amp;quot;../post/post002/4.png&amp;quot; =10x)&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post0007/4.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post0007/4.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;语法检查&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;语法检查&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二&lt;/strong&gt;，光标样式。敲代码时出现的光标，以下为示意图，选择自己喜欢的就好。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三第四&lt;/strong&gt;，字号和字体，就不多说了，一样选择自己顺眼的就行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第五&lt;/strong&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>手机上强大的编程工具！</title>
+        <link>https://lwblog.github.io/p/%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%BA%E5%A4%A7%E7%9A%84%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Fri, 10 Dec 2021 10:00:00 +0800</pubDate>
+        
+        <guid>https://lwblog.github.io/p/%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%BA%E5%A4%A7%E7%9A%84%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/</guid>
+        <description>&lt;img src="https://lwblog.github.io/post/cover.png" alt="Featured image of post 手机上强大的编程工具！" /&gt;&lt;h2 id=&#34;一部手机也能用来编程&#34;&gt;一部手机也能用来编程？&lt;/h2&gt;
+&lt;p&gt;大家好，我是小白，一个想用手机创造奇迹的人。不知道大家有没有想过，有时出门不方便带着电脑，但又手痒想敲几段代码，却发现电脑不在身边。这个时候要是手机也能敲代码就好了&amp;hellip;当然，这篇教学文章也是送给那些想学编程，奈何没有条件用电脑的人，让他们用手机实现梦想。&lt;/p&gt;
+&lt;h2 id=&#34;开始教学&#34;&gt;开始教学&lt;/h2&gt;
+&lt;p&gt;经过一番寻找，小白发现了一个编程app，那就是&amp;quot;SPCK Editor&amp;quot;。这是目前小白认为手机上最强大的编程工具了，也是小白现在一直用着的。&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/0.jpg&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/0.jpg&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;spck editor&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;spck editor&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;首先介绍一下这款app。Spck Editor是一款实用性很强的编程工具，而该软件内更是支持11种语言包括中文（繁体简体都有），所以根本不需要担心看不明白怎么使用。&lt;/p&gt;
+&lt;p&gt;另外，经过小白实测，以下为spck editor支持的编程语言。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML, JavaScript, CSS&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;C#, C++&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Vue&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总共12种编程语言，大家可以看看小白的截图，另外还可以用来编辑txt, md文件。&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/1.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/1.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;spck editor支持的语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;spck editor支持的语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/2.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/2.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;spck editor支持的语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;spck editor支持的语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;以上都是小白测试后得到的结果，或许还有哪些被遗漏了，大家可以自行测试。&lt;/p&gt;
+&lt;p&gt;其实Spck Editor还有好多强大且实用的功能，这里就留到下篇文章在详细的说吧，本文章主要先教学如何下载，和下载后的基础操作。&lt;/p&gt;
+&lt;h3 id=&#34;下载教学&#34;&gt;下载教学&lt;/h3&gt;
+&lt;p&gt;首先，&lt;a class=&#34;link&#34; href=&#34;https://github.com/lwblog/LWBlogFiles&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击此处&lt;/a&gt;找到spck editor的zip文件并下载到手机，进行解压后，你就会看到一个apk文件，安装即可。
+除了安装app，你也可以直接&lt;a class=&#34;link&#34; href=&#34;https://spck.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往&lt;/a&gt;spck的在线版本，当然小白我还是比较推荐下载的。大家可以按照自己的喜好决定。&lt;/p&gt;
+&lt;p&gt;下载后，打开spck editor会看到这样的一个界面。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/3.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/3.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;spck主页面&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;spck主页面&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;这些都是官方自带的项目，要是感兴趣可以点开看看源码，但我们今天的主题不在这里。&lt;/p&gt;
+&lt;p&gt;考虑到有些人下载到的可能是英语版，所以先说说怎么切换语言。&lt;/p&gt;
+&lt;h3 id=&#34;切换语言&#34;&gt;切换语言&lt;/h3&gt;
+&lt;p&gt;首先点击左上角打开菜单，点击最右边的设定。&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/4.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/4.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;找到language并点击打开选项，往下滑找到中文即可。&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/5.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/5.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/6.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/6.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;创建项目&#34;&gt;创建项目&lt;/h3&gt;
+&lt;p&gt;语言也切换完成了，接下来我们来创建一个项目。一样点开左上角，点击&amp;quot;+&amp;ldquo;的按钮，选择新建项目。这里会看到各种项目的模板，其实就是自动生成&lt;strong&gt;空的&lt;/strong&gt;文件，例如点击HTML模板，就会自动帮你生成空的html, css和js文件。不想要自动生成的话选择&amp;quot;No Framework&amp;quot;就行。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/7.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/7.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;创建项目&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;创建项目&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/8.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/8.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;创建项目&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;创建项目&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;最后，给项目命名再点击创建即可。这样就创建了一个新的项目了。接下来测试一下。敲完代码点击右上角绿色的按钮就可以运行了。又或者你可以用浏览器输入localhost:7700查看运行结果。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/9.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/9.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/10.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/10.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/11.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/11.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post004/12.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post004/12.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;切换语言&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;切换语言&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;另外，其实spck的功能还有很多很多，关于其他功能的详细介绍，小白会放在其他的文章。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本篇教学文章结束，如果有看不懂的欢迎到评论区留言&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>如何使用手机建立一个博客？（3）</title>
+        <link>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A23/</link>
+        <pubDate>Wed, 01 Dec 2021 10:00:00 +0800</pubDate>
+        
+        <guid>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A23/</guid>
+        <description>&lt;img src="https://lwblog.github.io/post/cover.png" alt="Featured image of post 如何使用手机建立一个博客？（3）" /&gt;&lt;h2 id=&#34;如何在手机使用hugo建立一个个人博客3&#34;&gt;如何在手机使用hugo建立一个个人博客（3）&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上一篇教学，我们完成了在hugo架设的博客上发布文章，但整个博客都只是在本地运行，别人并无法访问，那么我们需要将博客部署github上，让别人访问我们的博客。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学开始&#34;&gt;教学开始&lt;/h3&gt;
+&lt;p&gt;首先，你需要创建一个github账号。请浏览&lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;github官网&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;进入官网后，你会看到这样的一个页面，直接输入你的邮箱地址进行注册，输入完后点击&amp;quot;Sign Up For Github&amp;quot;。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/0.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/0.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;接下来出现这样的页面，点击&amp;quot;Continue&amp;quot;。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/1.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/1.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;输入一个密码，密码必须为15位数 &lt;strong&gt;或&lt;/strong&gt; 8位数但必须包含字母和数字。以后再输入一些账户信息，这里就不多说了。输入完后继续按continue就行。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/3.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/3.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;最后，进行人机验证，按照指示完成即可。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/4.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/4.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;完成后会有一个类似问卷的东西，直接跳过就好了，不用理会。&lt;/p&gt;
+&lt;p&gt;注册完成，你会看到这样的一个界面。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/7.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/7.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;点击&amp;quot;create repository&amp;quot;创建一个仓库。&lt;/p&gt;
+&lt;p&gt;这里请注意，仓库的名称(repository name)&lt;strong&gt;必须&lt;/strong&gt;是&amp;quot;&amp;lt;你的账号名&amp;gt;.github.io&amp;quot;。例如小白注册的账号名为&amp;quot;lwblogdemo&amp;quot;，所以仓库名小白命名为&amp;quot;lwblogdemo.github.io&amp;quot;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/8.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/8.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;其他东西无视即可，不用做出调整。直接到下方点击创建仓库&amp;quot;create repository&amp;quot;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/9.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/9.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;完成后会看到这样的一个界面。这里因为小白比较习惯了电脑版的页面，于是将浏览器切换成了桌面版页面。建议你也将页面切换成桌面的，因为github有些功能需要桌面版页面才能使用。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/10.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/10.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;现在我们需要生成一个用户凭证，按照以下教学生成一个凭证。&lt;/p&gt;
+&lt;p&gt;首先，来到github主页，点击左上角菜单。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/11.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/11.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+依次点击 设置(settings) &amp;gt; 开发者设置(developer settings)&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/12.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/12.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/14.jpg&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/14.jpg&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;随后，你会看见这样的页面，点击个人凭证(personal access token) &amp;gt; 生成新凭证(generate new token)
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/15.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/15.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;填写凭证名字(可以随意命名)
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/16.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/16.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;然后勾选这三个选项
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post003/17.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post003/17.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;到最下方点击生成(generate token)&lt;/p&gt;
+&lt;p&gt;现在，github已经准备完成了，我们先放到一边。&lt;/p&gt;
+&lt;p&gt;接下来，需要打开termux输入以下命令。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd storage/shared/blog ##访问博客文件夹
+hugo -D ##生成public文件夹
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;输入后，你的blog文件夹内会生成出一个名为&amp;quot;public&amp;quot;的文件夹，我们要做的就是将public文件夹上传在github。&lt;/p&gt;
+&lt;p&gt;再次打开github，复制这段网址。回到termux依次输入以下命令（请确保你的termux已经安装了git）。如果没有，请在termux最初的页面（不是博客的文件夹）输入&lt;code&gt;pkg install git&lt;/code&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd public
+git config --global user.name &amp;quot;你的用户名&amp;quot;
+git config --global user.email &amp;quot;注册github用的邮箱&amp;quot;
+git init
+git add .
+git commit -m &amp;quot;update&amp;quot;
+git remote add origin https://github.com/lwblogdemo/lwblogdemo.github.io.git ##这里请修改成自己仓库的地址
+git branch -M master
+git push -u origin master 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;输入完后，可能需要你的github用户名和用户凭证，按照次序复制粘贴，回车即可。如果没有意外，你的public文件夹已经全部上传到了你的github仓库。现在只需要在浏览器输入你的仓库名称即可浏览博客，也就是&amp;quot;lwblogdemo.github.io&amp;quot;。&lt;a class=&#34;link&#34; href=&#34;https://lwblogdemo.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;小白博客demo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本期文章结束浏览下一篇文章学习如何将网页部署在github&#34;&gt;本期文章结束，浏览下一篇文章学习如何将网页部署在github##&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>如何使用手机建立一个博客？（2）</title>
+        <link>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A22/</link>
+        <pubDate>Wed, 01 Dec 2021 09:00:00 +0800</pubDate>
+        
+        <guid>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A22/</guid>
+        <description>&lt;img src="https://lwblog.github.io/post/cover.png" alt="Featured image of post 如何使用手机建立一个博客？（2）" /&gt;&lt;h2 id=&#34;如何在手机使用hugo建立一个个人博客&#34;&gt;如何在手机使用hugo建立一个个人博客&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上一篇教学，我们完成了hugo博客的初步架设，而那仅仅是个在本地服务器运行的网页，本期文章将会教你如何发布文章，以及将网页部署在github上。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学开始&#34;&gt;教学开始&lt;/h3&gt;
+&lt;p&gt;首先，打开你的termux输入以下命令，由于我将文件储存在了sd卡空间，所以输入storage/shared，如果你储存在了别的地方请自行修改。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd storage/shared/blog ##访问hugo文件夹位置
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;接下来，只需要输入命令&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new post/hello.md ##创建文章，可自行修改名称
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post002/1.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post002/1.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;创建文章&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;创建文章&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+这样，一个名为hello.md的文章(文件)就会被创建在blog/content/post里。
+![创建文章](../post/post002/2 png)&lt;/p&gt;
+&lt;p&gt;进入你手机自带的文件浏览器，进入到blog &amp;gt; content &amp;gt; post 文件夹里，你会发现你刚刚成功创建的hello.md文章（文件）。打开该文件进行编辑，你会发现文件初始内容如下&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;---
+title: &amp;quot;Hello&amp;quot; ## 文章主题
+date: 2021-12-03T06:11:54Z ##文章创建日期
+draft: true
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;接下来，你可以按照自己的需求修改内容，如下。注意，你必须把&lt;code&gt;draft: true&lt;/code&gt;修改为&lt;code&gt;draft: false&lt;/code&gt;，这样你的文章之后才会显示在博客上。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;---
+title: &amp;quot;文章标题&amp;quot;
+description: &amp;quot;文章介绍(可选)&amp;quot;
+date: 2021-12-01T07:00:45+08:00
+draft: false ##一定要修改为false
+image: &amp;quot;文章封面 (可选)&amp;quot;
+categories: 
+     分类(可选)
+tags: 标签(可选)
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样，你的第一个文章已经完成初步的设定！接下来，你可以直接在&amp;quot;&amp;mdash;&amp;ldquo;下方开始编写你的文章的内容。内容语法为markdown语法。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post002/4.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post002/4.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;编辑文章&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;编辑文章&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;编写完成后，返回termux输入命令运行。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server ##启动网页
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post002/7.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post002/7.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;文章内容&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;文章内容&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+启动后进入你的浏览器，输入网址localhost:1313，你会看到你的博客已经有了第一篇文章！&lt;/p&gt;
+&lt;p&gt;那么，现在你的博客可以算是架设成功了，你也知道怎么发布文章了。&lt;/p&gt;
+&lt;p&gt;但是！！网页也只是在本地运行而已，别人并没有办法访问，那么这个时候，我们可以将hugo部署到github。&lt;/p&gt;
+&lt;h2 id=&#34;本期文章结束浏览下一篇文章学习如何将网页部署在github&#34;&gt;本期文章结束，浏览下一篇文章学习如何将网页部署在github##&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>如何使用手机建立一个博客？</title>
+        <link>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Wed, 01 Dec 2021 08:00:00 +0800</pubDate>
+        
+        <guid>https://lwblog.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;img src="https://lwblog.github.io/post/cover.png" alt="Featured image of post 如何使用手机建立一个博客？" /&gt;&lt;h2 id=&#34;如何在手机使用hugo建立一个个人博客&#34;&gt;如何在手机使用hugo建立一个个人博客&lt;/h2&gt;
+&lt;h4 id=&#34;前言&#34;&gt;前言&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最近心血来潮，想创建一个教学类的博客，但又没（懒）时（得）间一点一点的用代码敲出来，难道就没有方法直接生成一个博客出来吗？&lt;br&gt;
+找着找着发现了hugo这么个东西，我一看，哎，好像还不错，那就用hugo来建一个博客吧。于是乎经过了一段查询教学的时间发现为什么网上的教程都是使用电脑（废话），难道是看不起手机？（并没有）&lt;br&gt;
+于是爱搞事情的我有了个大胆的想法，那就是用手机通过hugo搭建一个博客！想要通过手机使用hugo创建，最大的问题就在于终端，那么有什么办法解决呢？那就是手机神器，&amp;ldquo;termux&amp;rdquo;！&lt;br&gt;
+那么废话不多说了，开始教程！（虽然已经很多废话了）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教学开始&#34;&gt;教学开始&lt;/h3&gt;
+&lt;p&gt;首先，你需要下载一个叫&amp;quot;termux&amp;quot;的手机应用。你可以在termux官方网站（termux.com）下载，或者在fdroid下载（推荐）。&lt;/p&gt;
+&lt;p&gt;下载好了吧？那么进入termux，先输入下面这段命令升级一下。（过程中需要点击回车）&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;pkg update &amp;amp;&amp;amp; pkg upgrade  ##升级命令
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;升级完成后，授权termux手机的储存权限&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;termux-setup-storage  ##授权储存空间
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;接着下载今日主角，hugo！&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;pkg install hugo  ##安装hugo命令
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;下载完hugo后，你需要选择一个地方储存hugo的文件。这里我选择储存在手机sd卡内，不占用手机容量。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd storage/shared  ##访问我的sd卡空间
+hugo new site blog  ##创建名为&amp;quot;blog&amp;quot;的文件夹，并下载hugo文件到文件夹内
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post001/1.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post001/1.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;完成以上步骤后，hugo文件已经全部下载完成。我需要检查是否正常，于是我使用手机自带的文件管理器进入sd卡找到&amp;quot;blog&amp;quot;文件夹，下载好的文件如下。&lt;/p&gt;
+&lt;p&gt;接下来，返回termux输入命令进入&amp;quot;blog&amp;quot;文件夹&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd blog  ##访问文件夹
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;启动网页测试一下&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server  ##启动hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post001/3.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post001/3.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;启动网页&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;启动网页&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post001/4.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post001/4.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;前往浏览器&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;前往浏览器&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+启动后前往浏览器，输入localhost:1313点击回车，会出现一片空白（毕竟还没创建博客的模板和内容，是正常的），但如果是出现&amp;quot;无法访问该网站，localhost 拒绝了我们的连接请求&amp;quot; 则是启动失败。 请重新检查你的步骤，文件夹是否正确等等。
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post001/5.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post001/5.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;如何使用手机建立一个博客&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如何使用手机建立一个博客&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+一切正常后回到termux，点击CTRL后输入&amp;quot;C&amp;quot;关闭网页。&lt;/p&gt;
+&lt;p&gt;接下来，我们需要导入一个模板。打开浏览器，到https://themes.gohugo.io/选择一个你喜欢的模板，找到喜欢的模板的话点击download跳转到模板的github页面，这里我使用的是stack模板。&lt;/p&gt;
+&lt;p&gt;进入github页面后，点击绿色的&amp;quot;code&amp;quot;按钮，复制https网址后返回termux。输入&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd themes  ##进入hugo模板的文件夹
+git clone https://github.com/CaiJimmy/hugo-theme-stack.git  ##此处的网址是刚刚github复制的模板的网址
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://lwblog.github.io/../post/post001/6.png&#34; &gt;
+		&lt;img src=&#34;https://lwblog.github.io/../post/post001/6.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;导入hugo主题&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;导入hugo主题&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;完成后，&amp;ldquo;blog&amp;quot;文件夹里的&amp;quot;themes&amp;quot;文件夹，会有名为hugo-theme-stack的主题文件夹。&lt;/p&gt;
+&lt;p&gt;使用手机自带的文件管理器，进入blog  &amp;gt;  themes  &amp;gt;  hugo-theme-stack  &amp;gt;  exampleSite
+找到&amp;quot;config.yaml&amp;quot;的文件。该文件里面都是一些网站的配置，可以按照喜好修改，关于配置的问题，我会在之后发文章解释。总之，复制&amp;quot;config.yaml&amp;quot;文件到&amp;quot;blog&amp;quot;的根目录内。删除原先的&amp;quot;config.toml&amp;rdquo;。&lt;/p&gt;
+&lt;p&gt;此时再次返回termux，运行网页。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ../  ##由于刚刚停留在theme文件夹，输入这段命令返回blog根目录
+hugo server  ##启动网页
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;此时再次返回浏览器，刷新页面，你会发现你的网页已经成型了！&lt;/p&gt;
+&lt;h2 id=&#34;本期文章结束下篇文章将会教你如何发布内容以及如何让别人访问&#34;&gt;本期文章结束，下篇文章将会教你如何发布内容以及如何让别人访问。&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

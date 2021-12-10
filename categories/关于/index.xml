@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关于 on 小白博客</title>
+    <link>https://lwblog.github.io/categories/%E5%85%B3%E4%BA%8E/</link>
+    <description>Recent content in 关于 on 小白博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Dec 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://lwblog.github.io/categories/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>https://lwblog.github.io/about/</link>
+      <pubDate>Wed, 01 Dec 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/about/</guid>
+      <description>2021年12月01日，&amp;ldquo;小白博客lwblog&amp;rdquo;(LittleWhiteBlog)成立，大家好，我是小白。 就在几天前</description>
+    </item>
+    
+  </channel>
+</rss>

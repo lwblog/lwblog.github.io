@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 小白博客</title>
+    <link>https://lwblog.github.io/categories/</link>
+    <description>Recent content in Categories on 小白博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Dec 2021 16:48:50 +0800</lastBuildDate><atom:link href="https://lwblog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>手机编程</title>
+      <link>https://lwblog.github.io/categories/%E6%89%8B%E6%9C%BA%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Fri, 10 Dec 2021 16:48:50 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/categories/%E6%89%8B%E6%9C%BA%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>手机搭建HUGO三部曲</title>
+      <link>https://lwblog.github.io/categories/%E6%89%8B%E6%9C%BA%E6%90%AD%E5%BB%BAhugo%E4%B8%89%E9%83%A8%E6%9B%B2/</link>
+      <pubDate>Wed, 01 Dec 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/categories/%E6%89%8B%E6%9C%BA%E6%90%AD%E5%BB%BAhugo%E4%B8%89%E9%83%A8%E6%9B%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://lwblog.github.io/categories/%E5%85%B3%E4%BA%8E/</link>
+      <pubDate>Wed, 01 Dec 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://lwblog.github.io/categories/%E5%85%B3%E4%BA%8E/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
