@@ -1,4 +1,4 @@
 ># allow google
 User-agent: *
 Allow: /
-Sitemap: http://lwblog.github.io/sitemap.xml
+Sitemap: http://lwblog.github.io/sitemap.txt
